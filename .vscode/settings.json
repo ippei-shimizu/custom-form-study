@@ -1,0 +1,10 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.variables": {
+    "lang": "ja"
+  },
+  "emmet.includeLanguages": {
+    "css": "css"
+  }
+}
